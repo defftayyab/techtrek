@@ -499,9 +499,9 @@ function renderAbout() {
     <p>
     Socials: <br>
     <a href="https://www.linkedin.com/in/tayyaba590">in/tayyaba590</a><br>
-    <a href="https://github.com/notthatslayer">github.com/notthatslayer</a><br>
-    <a href="https://dev.to/deffslayer">dev.to/deffslayer</a><br>
-    <a href="https://notthatslayer.github.io/portfolioo/">notthatslayer.github.io/portfolioo/</a><br>
+    <a href="https://github.com/defftayyab">github.com/defftayyab</a><br>
+    <a href="https://dev.to/defftayyab">dev.to/defftayyab</a><br>
+    <a href="https://defftayyab.github.io/portfolioo/">defftayyab.github.io/portfolioo/</a><br>
     </p>
 
   </article>
